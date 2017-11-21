@@ -1,3 +1,6 @@
 # Vim files
 *.swp
 *~
+
+#python files
+__pycache__
